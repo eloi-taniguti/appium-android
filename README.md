@@ -18,3 +18,8 @@ Nedd to set a new port so the so it does not conflict with the tests port.
 
 4 - Run tests
 >npm run wdio
+
+# Links
+- POM: https://webdriver.io/docs/pageobjects
+- WebdriverIO boilerplate: https://github.com/webdriverio/appium-boilerplate/tree/main
+- 
